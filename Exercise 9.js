@@ -5,5 +5,5 @@ const calculateMatrixSum = (matrix) => {
       sum += matrix[i][j];
     }
   }
-  return sum;
+  return sum
 };
