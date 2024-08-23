@@ -1,1 +1,1 @@
-const discount = totalamount => totalamount > 100 ? totalamount * 0.1 : totalamount * 0.05 
+const discount = totalAmount => totalAmount > 100 ? totalAmount * 0.1 : totalAmount * 0.05 
