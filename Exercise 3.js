@@ -1,1 +1,1 @@
-const reverseString = inputString => inputString.split("").reverse().join("");
+const reverseString = inputString => inputString.split("").reverse().join("")
